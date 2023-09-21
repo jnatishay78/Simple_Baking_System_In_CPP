@@ -82,3 +82,13 @@ Here is a user flow for a simple banking system that allows customers to perform
    - The user session is terminated, program will be exited (exit(0)).
 
 
+
+
+
+
+
+**Output for the project**
+![image](https://github.com/jnatishay78/Simple_Baking_System_In_CPP/assets/67281382/7227de88-8953-4455-bd39-b22472c03896)
+
+
+
